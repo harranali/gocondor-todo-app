@@ -1,0 +1,8 @@
+.air.toml
+.env
+tmp/*
+logs/*
+!logs/.gitkeep
+tls/*
+!tls/.gitkeep
+.DS_Store
