@@ -1,5 +1,4 @@
 .air.toml
-.env
 tmp/*
 logs/*
 !logs/.gitkeep
